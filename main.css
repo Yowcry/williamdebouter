@@ -236,16 +236,16 @@ body {
     margin-right: 5px;
   }
 
-  *.hidden {
+  .hidden {
     opacity: 0;
   }
 
   #about {
-    margin-bottom: 80px;
+    margin-bottom: 100px;
   }
 
   #skills {
-    margin-bottom: 70px;
+    margin-top: 60px;
   }
 
   @keyframes text {
